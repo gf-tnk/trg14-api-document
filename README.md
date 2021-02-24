@@ -22,4 +22,4 @@ This API route will get array of kind
 
 ### GetListKind
 * [GetListKind](getListKind.md) : `GET /api/items/list/apple`
-This API route will get array of kind
+This API route will get the latest list of kind
