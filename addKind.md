@@ -1,6 +1,6 @@
 # AddKind
 
-**URL** : `/api/login/`
+**URL** : `/api/items/kind`
 
 **Method** : `POST`
 
